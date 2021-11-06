@@ -1,5 +1,7 @@
 # Chat Server App
-**NOTE:** Change the email and password to your own in the SingletonServerEmail Java file.
+**IMPORTANT:** 
+* Change the email and password to your own in the SingletonServerEmail Java file.
+* Your Java project must have the jars from the lib folder installed to work.
 
 Client/server chat application written in Java.
 
